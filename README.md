@@ -99,7 +99,16 @@ Extracing the archive, we get this "HAPPINESS" file with no particular file exte
 #### Step 14 - Reading the youtube comments from the previous video
 The user "Nohorse" points out that you can import HAPPINESS into Audacity as "Raw Data", playing it generates a harsh crunching sound. By trial and error, "unsigned 8-bit PCM, stereo" is apparently the correct way of doing so, and it generates a crispy sound of Korone eating chips:\
 `HAPPINESS.ogg`\
-Apparently this is the source:\
-https://www.youtube.com/watch?v=YXxBm1UdD_k\
+Apparently [this is the source](https://www.youtube.com/watch?v=YXxBm1UdD_k).
 
-FIM
+**UPDATE 8/12/2020**\
+The video was called "Crunch, Crunch, Crunch" up until now, changing to "HAPPINESS". It's descriptions says as follows:
+```
+This is not the end...
+https://t.ly/UQAr
+
+second link password:
+√420.69 (4 first digit)
+https://t.ly/OCQ9
+```
+I haven't figured the bar code, and the password isn't 20.51 nor 2051.
